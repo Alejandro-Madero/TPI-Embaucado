@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1719098770 source:c:\users\gabri\onedrive\escritorio\tup\programacion i\tpintegrador\embaucado\main.cpp
+	<iostream>
+	"funciones.h"
+
+1719098780 c:\users\gabri\onedrive\escritorio\tup\programacion i\tpintegrador\embaucado\funciones.h
+	<iostream>
+
+1719098777 source:c:\users\gabri\onedrive\escritorio\tup\programacion i\tpintegrador\embaucado\funciones.cpp
+	<iostream>
+	<ctime>
+
